@@ -1,0 +1,1 @@
+class PostIt extends Paper{}

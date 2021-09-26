@@ -1,0 +1,1 @@
+class Boat implements Vessel{}

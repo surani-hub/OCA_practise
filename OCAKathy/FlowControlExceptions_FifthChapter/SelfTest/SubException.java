@@ -1,0 +1,1 @@
+class SubException extends Exception{}

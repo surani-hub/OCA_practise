@@ -1,0 +1,1 @@
+class Speedboat extends Boat implements Toy{}

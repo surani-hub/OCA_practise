@@ -1,0 +1,3 @@
+class BadFoodException extends Exception{
+
+}

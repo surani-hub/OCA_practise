@@ -1,0 +1,3 @@
+class GolfClub extends Ferrari{
+
+}
