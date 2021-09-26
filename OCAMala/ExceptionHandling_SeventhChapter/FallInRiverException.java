@@ -1,0 +1,1 @@
+class FallInRiverException extends Exception{}

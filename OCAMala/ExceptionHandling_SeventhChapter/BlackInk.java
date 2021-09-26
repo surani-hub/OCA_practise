@@ -1,0 +1,1 @@
+class BlackInk extends Ink{}

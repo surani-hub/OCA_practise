@@ -1,0 +1,1 @@
+class DropOarException extends Exception{}

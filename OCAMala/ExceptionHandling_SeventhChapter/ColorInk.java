@@ -1,0 +1,1 @@
+class ColorInk extends Ink implements Printable{}
