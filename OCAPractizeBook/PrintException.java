@@ -1,0 +1,3 @@
+class PrintException extends Exception{
+	
+}

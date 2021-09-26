@@ -1,0 +1,1 @@
+class PaperPrintException extends PrintException{}

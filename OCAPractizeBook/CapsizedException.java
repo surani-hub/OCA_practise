@@ -1,0 +1,2 @@
+class CapsizedException extends Exception{
+}

@@ -1,0 +1,1 @@
+class Problem extends RuntimeException{}

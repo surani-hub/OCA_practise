@@ -1,0 +1,1 @@
+class BubbleException extends Exception{}
